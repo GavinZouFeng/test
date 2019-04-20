@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/idea-git-test/idea-git-test.iml" filepath="$PROJECT_DIR$/idea-git-test/idea-git-test.iml" />
+      <module fileurl="file://E:/BaiduNetdiskDownload/JavaEE22/ssm1/spring_day04/素材/itheima_spring_tx/itheima_spring_tx.iml" filepath="E:/BaiduNetdiskDownload/JavaEE22/ssm1/spring_day04/素材/itheima_spring_tx/itheima_spring_tx.iml" />
+    </modules>
+  </component>
+</project>
